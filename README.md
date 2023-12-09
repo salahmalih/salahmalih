@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salah</h1>
+<h1 align="center">Hi 👋, I'm Salah Malih</h1>
 <h3 align="center">A passionate software enthusiast from Morocco 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0e75b6&style=flat" alt="salahmalih" /> </p>
@@ -27,17 +27,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/salahmalih"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahmalih" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/salahmalih"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahmalih" /></a></p><br>
+<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=salahmalih&show_icons=true&hide=contribs,prs" alt="salahmalih" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahmalih&show_icons=true&locale=en&layout=compact" alt="salahmalih" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahmalih&show_icons=true&locale=en" alt="salahmalih" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salahmalih&" alt="salahmalih" /></p>
+<h2>Happy coding! 💻✨</h2>
