@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge" alt="sala7__m" /></a> </p>
 
-<h3 align="left">About Me:</h3>
+# ℹ About Me :
 <p>🎓 **Education:**<br>
 - Diploma in Development of Information Systems from Morocco 🌍<br>
 - Currently pursuing a degree in Software Engineering online at ALX
@@ -37,3 +37,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <h2>Happy coding! 💻✨</h2>
+[![](https://visitcount.itsvg.in/api?id=salahmalih&icon=0&color=0)](https://visitcount.itsvg.in)
