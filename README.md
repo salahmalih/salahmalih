@@ -17,7 +17,7 @@
 <p>🤝 **Collaboration:**<br>
 - Enthusiastic about open source contributions and collaborative projects.
 </p>
-<img src+"https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&hide_progress=true" alt="top lang">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&hide_progress=true" alt="top lang">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sala7__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sala7__m" height="30" width="40" /></a>
