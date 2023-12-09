@@ -36,6 +36,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://raw.githubusercontent.com/salahmalih/salahmalih/output/snake.svg" alt="Snake animation" />
+
 ###
 <h2 align="center">Happy coding! 💻✨</h2>
