@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/salah-malih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah-malih" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salahmalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salahmalih" height="30" width="40" /></a>
 </p>
+
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=salahmalih&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top lang">
