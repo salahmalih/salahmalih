@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/salah-malih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah-malih" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salahmalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salahmalih" height="30" width="40" /></a>
 </p>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahmalih&show_icons=true&theme=radical)
+![Your GitHub Stats]<img src="https://github-readme-stats.vercel.app/api?username=salahmalih&show_icons=true&theme=radical" alt="GitHub Stats" />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/salahmalih"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahmalih" /></a></p><br><br>
 <br><br>
