@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salah</h1>
-<h3 align="center">A passionate software enthusiast from MOROCCO 🇲🇦</h3>
+<h3 align="center">A passionate software enthusiast from Morocco 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0e75b6&style=flat" alt="salahmalih" /> </p>
 
@@ -8,14 +8,14 @@
 <p align="left"> <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge" alt="sala7__m" /></a> </p>
 
 <h3 align="left">About Me:</h3>
-<p>🎓 **Education:**
-- Diploma in Development of Information Systems from Morocco 🌍
+<p>🎓 **Education:**<br>
+- Diploma in Development of Information Systems from Morocco 🌍<br>
 - Currently pursuing a degree in Software Engineering online at ALX
 </p>
-<p>🌱 **Learning:**
+<p>🌱 **Learning:**<br>
 - Always exploring new technologies and staying updated on the latest industry trends.
 </p>
-<p>🤝 **Collaboration:**
+<p>🤝 **Collaboration:**<br>
 - Enthusiastic about open source contributions and collaborative projects.
 </p>
 <h3 align="left">Connect with me:</h3>
