@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hello+World!+I'm+Salah+Malih;%F0%9F%8C%8D+Welcome+to+my+coding+corner!;I+believe+in+learning+through+doing%F0%9F%92%BB" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Salah</h1>
 <h3 align="center">A passionate software enthusiast from MOROCCO 🇲🇦</h3>
 
