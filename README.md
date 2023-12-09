@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Salah Malih</h1>
-<h3 align="center">A passionate software enthusiast from Morocco 🇲🇦</h3>
+<h1 align="center">Hi 👋, I'm Salah</h1>
+<h3 align="center">A passionate software enthusiast from MOROCCO 🇲🇦</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0e75b6&style=flat" alt="salahmalih" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahmalih" alt="salahmalih" /></a> </p>
 
@@ -16,6 +18,7 @@
 <p>🤝 **Collaboration:**<br>
 - Enthusiastic about open source contributions and collaborative projects.
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sala7__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sala7__m" height="30" width="40" /></a>
@@ -25,12 +28,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<!-- Add or remove tools based on your preference -->
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
+<!-- Add more tools here -->
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/salahmalih"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahmalih" /></a></p><br>
-
+<p><a href="https://www.buymeacoffee.com/salahmalih"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahmalih" /></a></p><br><br>
+<br><br>
 <h2>Happy coding! 💻✨</h2>
