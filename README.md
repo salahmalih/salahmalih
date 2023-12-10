@@ -1,14 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hello+World!+I'm+Salah+Malih;%F0%9F%8C%8D+Welcome+to+my+coding+corner!;I+believe+in+learning+through+doing%F0%9F%92%BB" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Salah</h1>
-<h3 align="center">A passionate software enthusiast from MOROCCO 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0e75b6&style=flat" alt="salahmalih" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge" alt="sala7__m" /></a> </p>
-
 # ℹ About Me :
 <p>🎓 **Education:**<br>
-- Diploma in Development of Information Systems from Morocco 🌍<br>
 - Currently pursuing a degree in Software Engineering online at ALX
 </p>
 <p>🌱 **Learning:**<br>
