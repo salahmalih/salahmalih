@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge" alt="sala7__m" /></a> </p>
 # ℹ About Me :
 <p>🎓 **Education:**<br>
-- Currently pursuing a degree in Software Engineering online at ALX
+- 💻 Completed Software Engineering at ALX Programs<br>
+- 💻 Studying Data Analytics & AI at ibn zohr Agadir
 </p>
 <p>🌱 **Learning:**<br>
 - Always exploring new technologies and staying updated on the latest industry trends.
