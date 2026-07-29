@@ -1,86 +1,181 @@
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e8/37/1c/e8371c6d3bc01b54a32b21c54b2d3bf7.gif" width="100%" alt="Modern Animated Banner" />
-</div>
+<!-- ========================================================= -->
+<!--                       ANIMATED HEADER                      -->
+<!-- ========================================================= -->
 
-<!-- Greeting & Typing SVG -->
-<h1 align="center">Hi 👋, I'm Salah</h1>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+World!+I'm+Salah+Malih;%F0%9F%8C%8D+Welcome+to+my+coding+corner!;%E2%9A%A1+Software+Engineer;%F0%9F%92%BB+Data+Analytics+%26+AI+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,50:0072FF,100:6A11CB&text=Salah%20Malih&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%">
+</p>
 
-<!-- Badges -->
-<div align="center">
-  <a href="https://github.com/salahmalih"><img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0E75B6&style=for-the-badge" alt="Profile Views" /></a>
-  <a href="https://twitter.com/sala7__m"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" /></a>
-</div>
-<br>
+<p align="center">
 
-<!-- About Me Section with 3D/NFT GIF Element -->
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Full+Stack+Developer;Python+%7C+FastAPI+%7C+React+Developer;Data+Analytics+%26+Machine+Learning;Building+AI+Agents+and+Automation;Open+Source+Enthusiast;Always+Learning+Something+New+🚀" />
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" style="border: none;">
-      🎓 <b>Education:</b><br>
-      - 💻 Completed Software Engineering at ALX Programs.<br>
-      - 💻 Studying Data Analytics & AI at Ibn Zohr, Agadir.<br><br>
-      🌱 <b>Learning:</b><br>
-      - Always exploring new technologies and staying updated on the latest industry trends.<br><br>
-      🤝 <b>Collaboration:</b><br>
-      - Enthusiastic about open source contributions and collaborative projects.
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <!-- Modern 3D / NFT Style Animated GIF -->
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/7475318/media/64f09a8eb71fc599b5edb666a8de4d52.gif" width="180px" alt="3D NFT Element" />
-    </td>
-  </tr>
-</table>
+</p>
 
-<!-- Tech Stack -->
-## 💻 Tech Stack
+---
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <!-- You can easily add more icons here by updating the "i=" parameter -->
-    <img src="https://skillicons.dev/icons?i=c,php,js,java,html,css,dotnet,wordpress,mysql,pr,kotlin,react,python,git,github,vscode&perline=8" />
-  </a>
-</div>
-<br>
+# 👋 Hello, I'm Salah Malih
 
-<!-- GitHub Analytics -->
-## 📊 GitHub Stats
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahmalih&theme=radical&show_icons=true&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="195" alt="Top Languages" />
-</div>
-<br>
+🎓 Computer Science Student
 
-<!-- Dev Quote -->
-## ✍️ Random Dev Quote
+📍 Morocco 🇲🇦
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
-<br>
+💻 Full Stack Developer
 
-<!-- Connect & Support Footer -->
-## 🤝 Connect & Support
+🤖 AI Engineer
 
-<div align="center">
-  <a href="https://linkedin.com/in/salah-malih" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.leetcode.com/salahmalih" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</div>
-<br>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/salahmalih" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
-  </a>
-</div>
+📊 Data Analytics Enthusiast
 
-<br>
-<h2 align="center">Happy coding! 💻✨</h2>
+🚀 Building AI-powered products
+
+❤️ Passionate about solving real-world problems with AI.
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 AI Agents
+- 🧠 Machine Learning
+- 📊 Data Analytics
+- 🐍 Python
+- ⚡ FastAPI
+- ⚛️ React
+- 🐳 Docker
+- PostgreSQL
+- Modern SaaS Development
+
+---
+
+# 🏆 Featured Projects
+
+### 🎓 InternAI Platform
+
+AI-powered internship recruitment platform.
+
+✔ AI Candidate Ranking
+
+✔ Resume Parsing
+
+✔ Google Forms Integration
+
+✔ Analytics Dashboard
+
+✔ HR Management
+
+✔ AI Interview Assistant
+
+---
+
+### 📺 Home IPTV
+
+Modern IPTV platform with:
+
+- SEO Optimization
+- WordPress Development
+- WooCommerce
+- Performance Optimization
+- UI/UX Design
+- Marketing Automation
+
+---
+
+### 🤖 AI Desktop Assistant
+
+Electron + React desktop application capable of:
+
+- Connecting any AI API
+- Local AI management
+- AI Chat
+- AI Coding
+- AI Image Generation
+- AI File Analysis
+
+---
+
+# ⚙ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript,nodejs,html,css,tailwind,docker,postgres,mysql,sqlite,git,github,linux,vscode,wordpress,php,dotnet,java&perline=11">
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=salahmalih&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salahmalih&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salahmalih&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/salahmalih/salahmalih/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 🌍 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/salah-malih">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/salahmalih">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=salahmalih&style=for-the-badge">
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
