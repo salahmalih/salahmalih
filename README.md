@@ -4,7 +4,7 @@
 
 <!-- Reliable Animated Banner -->
 <div align="center">
-  <img src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" width="100%" alt="Developer Night Owl" style="border-radius: 15px;" />
+  <img src="https://github.com/salahmalih/salahmalih/blob/main/pixel-jeff-mario.gif?raw=true" width="100%" alt="Developer Night Owl" style="border-radius: 15px;" />
 </div>
 
 <br>
