@@ -33,7 +33,7 @@ I am a passionate **Full Stack Developer** and **AI Engineer** based in Morocco 
   <tr style="border: none;">
     <td width="55%" style="border: none; vertical-align: top;">
       🎓 <b>Education & Background:</b><br>
-      - 💻 Master's student in <i>Ingénierie Logicielle, ADIA & IISE</i> at <b>Université Ibn Zohr, Faculté des Sciences d'Agadir</b>.<br>
+      - 💻 Master's student in <i>Ingénierie Logicielle, ADIA </i> at <b>Université Ibn Zohr, Faculté des Sciences d'Agadir</b>.<br>
       - 💻 Completed Software Engineering at <b>ALX Programs</b>.<br><br>
       🎯 <b>Core Focus Areas:</b><br>
       - <b>AI & Machine Learning:</b> Building AI Agents, Neural Networks, Recommendation Systems, and Predictive Regression Models.<br>
