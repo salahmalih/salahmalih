@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=850&lines=Hi+there%2C+I%27m+Salah+Malih+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%26+Data+Science;Advanced+Python+%7C+FastAPI;Building+AI+Agents+and+Automation;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=850&lines=Hi+there%2C+I%27m+Salah+Malih+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%26+Data+Analytics;Advanced+Python+%7C+FastAPI;Building+AI+Agents+and+Automation;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,20 +28,20 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Software Engineer** and **Data & AI Enthusiast** based in Guelmim, Morocco 🇲🇦[cite: 1]. Rigorous, ambitious, and adaptable, I am dedicated to building intelligent systems and scalable digital solutions[cite: 1].
+I am a passionate **Software Engineer** and **Data & AI Enthusiast** based in Guelmim, Morocco 🇲🇦. Rigorous, ambitious, and adaptable, I am dedicated to building intelligent systems and scalable digital solutions.
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="65%" style="border: none; vertical-align: top;">
       🎓 <b>Education & Certifications:</b><br>
-      - 💻 <b>Master:</b> Analytique de Données & Intelligence Artificielle (ADIA) at <i>Université Ibn Zohr, Agadir</i> (2025)[cite: 1].<br>
-      - 💻 <b>Licence d'Excellence:</b> Analytique de Données & Intelligence Artificielle (ADIA) (2024-2025)[cite: 1].<br>
-      - 💻 <b>Software Engineering Certificate:</b> 12-month intensive Full-Stack program at <i>ALX Africa</i> (2023-2024)[cite: 1].<br>
-      - 💻 <b>BTS:</b> Développement des Systèmes d'Information (DSI) (2021-2023)[cite: 1].<br><br>
+      - 💻 <b>Master:</b> Data Analytics & Artificial Intelligence (ADIA) at <i>Ibn Zohr University, Agadir</i> (2025).<br>
+      - 💻 <b>Bachelor of Excellence:</b> Data Analytics & Artificial Intelligence (ADIA) (2024-2025).<br>
+      - 💻 <b>Software Engineering Certificate:</b> 12-month intensive Full-Stack program at <i>ALX Africa</i> (2023-2024).<br>
+      - 💻 <b>Higher National Diploma (BTS):</b> Information Systems Development (DSI) (2021-2023).<br><br>
       🎯 <b>Core Focus Areas & Experience:</b><br>
-      - <b>Machine Learning & Data:</b> Pandas, NumPy, Machine Learning, ETL pipelines, Data Warehousing, Power BI, and Tableau[cite: 1].<br>
-      - <b>Full-Stack Architecture:</b> High-performance development using Python, C, JavaScript, React, Flask, Node.js, PHP, and REST APIs[cite: 1].<br>
-      - <b>Professional Experience:</b> Desktop app design in VB.NET (Univers Informatique ENASRI)[cite: 1] and System Administration & WordPress web development (RAMOSYAS)[cite: 1].<br>
+      - <b>Machine Learning & Data:</b> Pandas, NumPy, Machine Learning, ETL pipelines, Data Warehousing, Power BI, and Tableau.<br>
+      - <b>Full-Stack Architecture:</b> High-performance development using Python, C, JavaScript, React, Flask, Node.js, PHP, and REST APIs.<br>
+      - <b>Professional Experience:</b> Desktop app development in VB.NET (Univers Informatique ENASRI) and System Administration & WordPress web development (RAMOSYAS).<br>
     </td>
     <td width="35%" align="center" style="border: none; vertical-align: middle;">
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" alt="Coding Animation" style="border-radius: 10px;" />
@@ -59,7 +59,6 @@ I am a passionate **Software Engineer** and **Data & AI Enthusiast** based in Gu
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Added new skills from CV: C, React, Flask, Node.js, PHP -->
     <img src="https://skillicons.dev/icons?i=python,c,js,react,flask,nodejs,php,html,css,tailwind,docker,postgres,mysql,git,github,linux,vscode,wordpress&perline=10" alt="Tech Stack" />
   </a>
 </div>
@@ -112,9 +111,8 @@ Uncomment the lines below once your GitHub Action is running successfully!
 ## 🌍 Connect with Me
 
 <div align="center">
-  <!-- Updated Email from CV -->
   <a href="mailto:salahmalih2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/salah-malih"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/salahmalih"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
