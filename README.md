@@ -1,41 +1,86 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hello+World!+I'm+Salah+Malih;%F0%9F%8C%8D+Welcome+to+my+coding+corner!;I+believe+in+learning+through+doing%F0%9F%92%BB" alt="Typing SVG" /></a>
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e8/37/1c/e8371c6d3bc01b54a32b21c54b2d3bf7.gif" width="100%" alt="Modern Animated Banner" />
+</div>
+
+<!-- Greeting & Typing SVG -->
 <h1 align="center">Hi 👋, I'm Salah</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+World!+I'm+Salah+Malih;%F0%9F%8C%8D+Welcome+to+my+coding+corner!;%E2%9A%A1+Software+Engineer;%F0%9F%92%BB+Data+Analytics+%26+AI+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0e75b6&style=flat" alt="salahmalih" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge" alt="sala7__m" /></a> </p>
-# ℹ About Me :
-<p>🎓 **Education:**<br>
-- 💻 Completed Software Engineering at ALX Programs<br>
-- 💻 Studying Data Analytics & AI at ibn zohr Agadir
-</p>
-<p>🌱 **Learning:**<br>
-- Always exploring new technologies and staying updated on the latest industry trends.
-</p>
-<p>🤝 **Collaboration:**<br>
-- Enthusiastic about open source contributions and collaborative projects.
-</p>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) ![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- Badges -->
+<div align="center">
+  <a href="https://github.com/salahmalih"><img src="https://komarev.com/ghpvc/?username=salahmalih&label=Profile%20views&color=0E75B6&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://twitter.com/sala7__m"><img src="https://img.shields.io/twitter/follow/sala7__m?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" /></a>
+</div>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sala7__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sala7__m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salah-malih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah-malih" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salahmalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salahmalih" height="30" width="40" /></a>
-</p>
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=salahmalih&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top lang">
-<br/>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/salahmalih"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahmalih" /></a></p><br><br>
-<br><br>
+<!-- About Me Section with 3D/NFT GIF Element -->
+## 👨‍💻 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="65%" style="border: none;">
+      🎓 <b>Education:</b><br>
+      - 💻 Completed Software Engineering at ALX Programs.<br>
+      - 💻 Studying Data Analytics & AI at Ibn Zohr, Agadir.<br><br>
+      🌱 <b>Learning:</b><br>
+      - Always exploring new technologies and staying updated on the latest industry trends.<br><br>
+      🤝 <b>Collaboration:</b><br>
+      - Enthusiastic about open source contributions and collaborative projects.
+    </td>
+    <td width="35%" align="center" style="border: none;">
+      <!-- Modern 3D / NFT Style Animated GIF -->
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/7475318/media/64f09a8eb71fc599b5edb666a8de4d52.gif" width="180px" alt="3D NFT Element" />
+    </td>
+  </tr>
+</table>
 
-###
+<!-- Tech Stack -->
+## 💻 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- You can easily add more icons here by updating the "i=" parameter -->
+    <img src="https://skillicons.dev/icons?i=c,php,js,java,html,css,dotnet,wordpress,mysql,pr,kotlin,react,python,git,github,vscode&perline=8" />
+  </a>
+</div>
+<br>
+
+<!-- GitHub Analytics -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salahmalih&theme=radical&show_icons=true&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmalih&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="195" alt="Top Languages" />
+</div>
+<br>
+
+<!-- Dev Quote -->
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+<br>
+
+<!-- Connect & Support Footer -->
+## 🤝 Connect & Support
+
+<div align="center">
+  <a href="https://linkedin.com/in/salah-malih" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/sala7__m" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.leetcode.com/salahmalih" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</div>
+<br>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/salahmalih" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<br>
 <h2 align="center">Happy coding! 💻✨</h2>
